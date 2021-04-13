@@ -36,12 +36,12 @@ const Signup = (props) => {
                 toastr.warning(res.error, 'Please Check Your Form!')
             }
             else{
-                toastr.success ('User is creacted Successfully', 'New Account')
+                toastr.success ('User is created Successfully', 'New Account')
                 props.history.push('/signin')
                } 
         })
            
-        .catch(err =>   toastr.warning(err, 'Server Error §'))
+        .catch(err =>   toastr.warning(err, 'Server Error '))
     }
 
     const Form = () => (

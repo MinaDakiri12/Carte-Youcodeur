@@ -41,7 +41,7 @@ const Signin = (props) => {
                } 
         })
            
-        .catch(err =>   toastr.warning(err, 'Server Error §'))
+        .catch(err =>   toastr.warning(err, 'Server Error '))
     }
 
     const Form = () => (
