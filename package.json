@@ -5,7 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinaDakiri12/Carte-Youcodeurs.git"
+  },
   "author": "Mina Dakiri",
+  "bugs": {
+    "url": "https://github.com/MinaDakiri12/Carte-Youcodeurs/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.5",
