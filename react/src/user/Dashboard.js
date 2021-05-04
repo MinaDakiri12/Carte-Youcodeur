@@ -29,18 +29,7 @@ function Dashboard() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-6">
-                        <div className="card">
-                            <div className="card-body">
-                                <h5 className="card-title"></h5>
-                                <ul className="list-group list-group-flush">
-                                    <li className="list-group-item"></li>
-                                    <li className="list-group-item"></li>
-                                    <li className="list-group-item"></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                
                 </div>
                
            </Layout>
